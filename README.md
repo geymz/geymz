@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </a> </p>
 
-👋 Hi, I'm Gamze!
+#👋 Hi, I'm Gamze!
 
 🎓 I'm a Software Engineering student.
 
