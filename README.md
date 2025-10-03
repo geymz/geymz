@@ -8,5 +8,7 @@
 👋 Hi, I'm Gamze!
 
 🎓 I'm a Software Engineering student.
+
 🛠️ I develop full-stack web applications using the MERN stack.
+
 🌐 I build backend services following RESTful API architecture.
