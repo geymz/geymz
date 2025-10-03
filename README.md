@@ -5,10 +5,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </a> </p>
 
-##👋 Hi, I'm Gamze!
 
-🎓 I'm a Software Engineering student.
+## 👋 Hi, I'm Gamze!
 
-🛠️ I develop full-stack web applications using the MERN stack.
+🎓 I'm a Software Engineering student.     
+🛠️ I develop full-stack web applications using the MERN stack.   
+🌐 I build backend services following RESTful API architecture.   
 
-🌐 I build backend services following RESTful API architecture.
+
