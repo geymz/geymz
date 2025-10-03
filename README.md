@@ -5,11 +5,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </a> </p>
 
-## 👋 Merhaba, ben Gamze!
+👋 Hi, I'm Gamze!
 
-🎓 Yazılım Mühendisliği öğrencisiyim.  
-🛠️ MERN stack ile tam kapsamlı web uygulamaları geliştiriyorum.  
-🌐 RESTful API mimarisi kullanarak backend servisleri yazıyorum.  
-💡 Öğrenmeye ve yeni teknolojilerle çalışmaya açık bir geliştiriciyim.
-
-
+🎓 I'm a Software Engineering student.
+🛠️ I develop full-stack web applications using the MERN stack.
+🌐 I build backend services following RESTful API architecture.
